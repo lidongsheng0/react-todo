@@ -1,12 +1,11 @@
 import React from 'react';
-import {view as Filter} from './filter';
-import {view as Todos} from './todos';
+import Todo from './todo';
+import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <Todos />
-      <Filter />
+      <Todo />
     </div>
   );
 }

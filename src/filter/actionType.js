@@ -1,3 +1,0 @@
-const  SETFILTER = 'FILTER/SETFILTER';
-
-export default SETFILTER;
